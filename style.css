@@ -1,0 +1,90 @@
+header {
+    background-color: #f5f88f;
+    box-shadow: 0 1px 0 0 #bebf94;
+}
+
+body,
+.card {
+    background-color: #f5f88f;
+}
+
+.navbar-nav li a:hover {
+    color: black !important;
+}
+
+.col-md-6 p {
+    text-align: justify;
+}
+
+.img-fluid {
+    border: 1px solid;
+}
+
+.btn {
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.card {
+    border-radius: 8px;
+}
+
+footer {
+    padding: 10px 0;
+    background-color: #f5f88f;
+}
+
+footer .social {
+    text-align: center;
+    padding-bottom: 5px;
+    color: #000000;
+}
+
+.social a i {
+    font-size: 24px;
+    color: black;
+    border: 1px solid #434343;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+}
+
+footer ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    color: rgb(150, 150, 150);
+}
+
+.social i:hover {
+    color: rgb(124, 92, 12);
+    border: 1px solid rgb(124, 92, 12);
+    transition: 0.3s ease;
+}
+
+.skills-container {
+    text-align: justify;
+    margin-bottom: 40px;
+    margin-right: 110px;
+}
+
+.skills-container,
+.contact-container {
+    margin-left: 8rem;
+}
+
+
